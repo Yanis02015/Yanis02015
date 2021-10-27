@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"><!--
 <a href="https://dev.to/pauld103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pauld103" height="30" width="40" /></a> -->
-<a href="https://twitter.com/yanis.oulhaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yanis Oulhaci" height="30" width="40" /></a>
+<a href="https://twitter.com/yanisoulhaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yanis Oulhaci" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yanisoulhaci" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Yanis Oulhaci" height="30" width="40" /></a>
  <a href="https://www.instagram.com/yanis.indt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanis.indt" height="30" width="40" /></a>
 </p>
