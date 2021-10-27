@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanis02015" alt="Yanis02015" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yanis.oulhaci" target="_blank"><img src="https://img.shields.io/twitter/follow/yanis.oulhaci?logo=twitter&style=for-the-badge" alt="js__coding" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yanisoulhaci" target="_blank"><img src="https://img.shields.io/twitter/follow/yanisoulhaci?logo=twitter&style=for-the-badge" alt="js__coding" /></a> </p>
 
 - 🔭 I’m currently working on [Side Projects in Java](https://github.com/Yanis02015/Badgeuse),
 
