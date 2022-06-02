@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yanisoulhaci" target="_blank"><img src="https://img.shields.io/twitter/follow/yanisoulhaci?logo=twitter&style=for-the-badge" alt="js__coding" /></a> </p>
 
-- 🔭 I’m currently working on [Side Projects in Vuejs 3](https://github.com/Yanis02015/) - (Not yet on github),
+- 🔭 I’m currently working on [Side Projects in Vuejs 3](https://github.com/Yanis02015/) - (Not yet on GitHub),
 
 - 👨‍💻 I participate in the creation of an e-commerce site with NodeJs/ReactJs : [Saeel-Électroménager](https://github.com/Saeel-Electromenager)
 
