@@ -23,7 +23,7 @@
 
 - 📫 You can reach out to me on **yanis.indt@gmail.com**
 
-- 👌 Or visit my Portfolio for more informations **[yanis-indt.netlify.app](https://yanis-indt.netlify.app)**
+- 👌 Or visit my Portfolio for more informations **[yanis.codes](https://yanis-indt.netlify.app)**
 
 - ⚡ Fun fact **I love wearing my gray hat 😉**
 
