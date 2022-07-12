@@ -21,9 +21,9 @@
 
 - 💬 Ask me about **Java, JavaScript, Vue.js, CSS and SQL**
 
-- 📫 You can reach out to me on **yanis.indt@gmail.com**
+- 📫 You can reach out to me on **contact@yanis.dev**
 
-- 👌 Or visit my Portfolio for more informations **[yanis.codes](https://yanis.codes)**
+- 👌 Or visit my Portfolio for more informations **[yanis.dev](https://yanis.dev)**
 
 - ⚡ Fun fact **I love wearing my gray hat 😉**
 
@@ -32,7 +32,7 @@
 <a href="https://dev.to/pauld103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pauld103" height="30" width="40" /></a> -->
 <a href="https://twitter.com/yanisoulhaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yanis Oulhaci" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yanisoulhaci" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Yanis Oulhaci" height="30" width="40" /></a>
- <a href="https://www.instagram.com/yanis.indt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanis.indt" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/_yanis.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanis.indt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
